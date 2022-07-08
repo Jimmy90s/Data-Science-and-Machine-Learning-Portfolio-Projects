@@ -1,6 +1,10 @@
 # Data Science and Machine Learning Portfolio Projects
 Collections of Data Science & ML projects where I practice Data Science, Machine Learning, Deep Learning, Data Analysis and Data Visualization related skills.
 
+### Skills Used 
+* 
+
+# Projects
 
 ## [Predicting Heart Disease - Classification Project](https://github.com/Jimmy90s/Data-Science-and-Machine-Learning-Portfolio-Projects/tree/main/Predicting%20Heart%20Disease%20-%20Classification%20Project)
 Milestone project from Complete Machine Learning and Data Science - Zero to Mastery course.
