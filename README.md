@@ -7,3 +7,9 @@ Milestone project from Complete Machine Learning and Data Science - Zero to Mast
 
   * The project is to build a machine learning model capable of predicting whether or not someone has a Heart Disease based on their medical attributes.
   * using data from Heart Disease Data Set of UCI - [kaggle version](https://www.kaggle.com/competitions/heart-disease-uci/data)
+
+## Predicting Bulldozer Sale Price - Regression Project
+Milestone project from Complete Machine Learning and Data Science - Zero to Mastery course.
+
+ * The project is to build a machine learning model to predict the sale price of bulldozers based on the past prices.
+ * using data from Blue Book for Bulldozers - kaggle version
